@@ -48,7 +48,7 @@
 
 <p align="center"> 
   <b>Visitor count</b> <br>
-  <img src="https://profile-counter.glitch.me/elnurbek17/count.svg" alt="Visitor Count" width="250" height="40" style="border-radius: 8px;"/>
+  <img src="https://profile-counter.glitch.me/gaearon/count.svg" alt="Visitor Count" width="250" height="40" style="border-radius: 8px;"/>
 </p>
 
 ### 📫 Contact Me:  
